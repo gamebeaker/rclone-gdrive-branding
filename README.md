@@ -6,7 +6,7 @@ This repository hosts the static application home page and privacy policy requir
 
 - **Application Home Page:** [https://gamebeaker.github.io/rclone-gdrive-branding/](https://gamebeaker.github.io/rclone-gdrive-branding/)
 - **Privacy Policy:** [https://gamebeaker.github.io/rclone-gdrive-branding/privacy.html](https://gamebeaker.github.io/rclone-gdrive-branding/privacy.html)
-- **Authorized Domain:** `curryplayer.github.io`
+- **Authorized Domain:** `gamebeaker.github.io`
 
 ## Purpose
 
